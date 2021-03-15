@@ -12,6 +12,12 @@ Java, Gradle, Junit5, Selenide, Allure Reports, Jenkins, Selenoid, Telegram Bot.
 ****Jenkins****
 ![Screenshot_87](https://user-images.githubusercontent.com/54593962/111088755-c9c9ae80-8539-11eb-833f-dc1f88ee0c3e.png)
 
+****Allure TestOps Launches****
+![Screenshot_93](https://user-images.githubusercontent.com/54593962/111220844-c3473f80-85ea-11eb-9aec-987c11dee901.png)
+
+****Allure TestOps Test cases****
+![Screenshot_92](https://user-images.githubusercontent.com/54593962/111220961-f093ed80-85ea-11eb-9549-7417334e6184.png)
+
 ****Allure Report****
 ![Screenshot_86](https://user-images.githubusercontent.com/54593962/111088707-84a57c80-8539-11eb-8218-f1591765305d.png)
 
