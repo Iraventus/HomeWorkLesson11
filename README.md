@@ -17,3 +17,6 @@ Java, Gradle, Junit5, Selenide, Allure Reports, Jenkins, Selenoid, Telegram Bot.
 
 ****Telegram bot notification****
 ![Screenshot_88](https://user-images.githubusercontent.com/54593962/111088785-ee258b00-8539-11eb-988c-665f148214a3.png)
+
+****Slack****
+![Screenshot_90](https://user-images.githubusercontent.com/54593962/111160545-3e890100-85ab-11eb-8c03-74353fb02011.png)
